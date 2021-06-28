@@ -47,22 +47,6 @@
   <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="An Do's Twitter Profile" height="30" width="30">
 </p>
 
-<h2 align="center">My Blog 🔥🔥 </h2>
-<p align="center">
-    <a href="https://sweet.hashnode.dev/"><img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="An Do's Blog" height="40" width="40"
-    /></a>
-</p>
-
-<h2 align="center">My stack 👨‍💻👨‍💻</h2>
-
-<h6 align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</h6>
-
-<p align="center">
-  <a href="https://stackshare.io/andodsai/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="An Do :: StackShare" />
-  </a>
-</p>
-
 <h2 align="center">Github statistics 📊 </h2>
 
 <h4 align="center">Visitor's count 👀</h4>
@@ -76,3 +60,9 @@
 <h4 align="center">Profile statistics 🎹</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andoDsAI&show_icons=true&theme=tokyonight" alt="An Do :: Profile Stats" /></p>
+
+<p align="center">
+  <a href="https://stackshare.io/andodsai/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="An Do :: StackShare" />
+  </a>
+</p>
