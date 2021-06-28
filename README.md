@@ -76,5 +76,3 @@
 <h4 align="center">Profile statistics 🎹</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andoDsAI&show_icons=true&theme=tokyonight" alt="An Do :: Profile Stats" /></p>
-
-<p align="center"><img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" alt="Synthwave" height="300" width="500"></p>
