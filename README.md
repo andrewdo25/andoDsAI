@@ -1,5 +1,5 @@
 
-<a href="https://github.com/andoDsAI"><img align="left" width="90" height="90" src="logo.png"></a> <h2 align="">Hi, I'm An 👋🏾 👨‍💻 👨‍💻</h2>
+<a href="https://github.com/andoDsAI"><img align="left" width="90" height="90" src="logo.png"></a> <h2>Hi, I'm An 👋🏾 👨‍💻 👨‍💻</h2>
 
 <img src="wallpaper.jpg" alt="">
 
@@ -44,13 +44,13 @@
   <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="An Do's Twitter Profile" height="30" width="30">
 </p>
 
-## <h2 align="center">My Blog 🔥🔥 </h2>
+<h2 align="center">My Blog 🔥🔥 </h2>
 <p align="center">
     <a href="https://sweet.hashnode.dev/"><img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="An Do's Blog" height="40" width="40"
     /></a>
 </p>
 
-## <h2 align="center">My stack 👨‍💻👨‍💻</h2>
+<h2 align="center">My stack 👨‍💻👨‍💻</h2>
 
 <h6 align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</h6>
 
