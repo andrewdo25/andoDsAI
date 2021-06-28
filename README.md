@@ -4,8 +4,11 @@
 <img src="wallpaper.jpg" alt="">
 
  I am a 3nd-year student majoring in Data Science & Artificial Intelligence at Ha Noi University of Science and Technology.
+
  I already have basic knowledge of Machine Learning algorithms, Deep Learning. I had some small projects during my university studies and some self-made personal projects.
+
  In addition, I also have a basic knowledge of web development with Javascript.
+ 
  I love drinking coffee and often go to cafes to study and relax...
 
 ## <h2 align="center">You can reach me at 🔥🔥 </h2>
