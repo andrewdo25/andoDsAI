@@ -1,14 +1,13 @@
 
-<p align="center">
+<p align="flex" display="flex">
   <a href="https://github.com/andoDsAI">
     <img
     align="left"
     width="90" height="90"
     src="logo.png">
   </a>
-  <h2 align="center">Hi, I'm An 👋🏾 👨‍💻 👨‍💻</h2>
+  <h2 align="left">Hi, I'm An 👋🏾 👨‍💻 👨‍💻</h2>
 </p>
-
 
 <img align="center" src="wallpaper.jpg" alt="">
 
@@ -36,6 +35,7 @@
   <a href="https://github.com/andoDsAI/github-readme-stats">
     <img
     align ="center"
+    height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andoDsAI&langs_count=10&theme=tokyonight&layout=compact"
     alt="An Do :: Top Langs"
     />
@@ -43,6 +43,7 @@
   <a href="https://github.com/andoDsAI/github-readme-stats">
     <img
     align="center"
+    height="165"
     src="https://github-readme-stats.vercel.app/api?username=andoDsAI&show_icons=true&theme=tokyonight"
     alt="An Do :: Profile Stats"
     />
@@ -67,13 +68,16 @@
     alt="An Do's Facebook Profile"
     height="30" width="30"
     />
+    &nbsp;&nbsp
   </a>
+  
   <a href="https://www.linkedin.com/in/andoDsAI/">
     <img
     src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
     alt="An Do's Linkedin Profile"
     height="30" width="30"
     />
+    &nbsp;&nbsp
   </a>
 
   <a href="https://stackoverflow.com/users/16326014/an-do?tab=profile">
@@ -82,6 +86,7 @@
     alt="An Do's Stack Overflow Profile"
     height="30" width="30"
     />
+    &nbsp;&nbsp
   </a>
 
   <a href="https://stackshare.io/andodsai">
@@ -90,6 +95,7 @@
     alt="An Do's StackShare Profile"
     height="30" width="30"
     />
+    &nbsp;&nbsp
   </a>  
 
   <a href="https://gitlab.com/andoDsAI">
@@ -98,6 +104,7 @@
     alt="An Do's GitLab Profile"
     height="30" width="30"
     />
+    &nbsp;&nbsp
   </a>
   
   <a href="https://www.youtube.com/channel/UCDbpayB-EC8_XQ1q5D07C7w">
@@ -106,6 +113,7 @@
     alt="An Do's YouTube Channel"
     height="30" width="30"
     />
+    &nbsp;&nbsp
   </a>
   
   <a href="https://www.instagram.com/_sweettt._/">
@@ -114,6 +122,7 @@
     alt="An Do's Instagram Profile"
     height="30" width="30"
     />
+    &nbsp;&nbsp
   </a>
 
   <a href="https://twitter.com/_sweetttt_">
@@ -122,5 +131,6 @@
     alt="An Do's Twitter Profile"
     height="30" width="30"
     />
+    &nbsp;&nbsp
   </a>
 </p>
