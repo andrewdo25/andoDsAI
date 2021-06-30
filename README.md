@@ -1,12 +1,12 @@
 
-<p align="flex" display="flex">
+<p align="flex">
   <a href="https://github.com/andoDsAI">
     <img
     align="left"
     width="90" height="90"
     src="logo.png">
   </a>
-  <h2 align="left">Hi, I'm An 👋🏾 👨‍💻 👨‍💻</h2>
+  <h1 align="left">Hi, I'm An 👋🏾 👨‍💻 👨‍💻</h1>
 </p>
 
 <img align="center" src="wallpaper.jpg" alt="">
