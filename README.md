@@ -22,7 +22,7 @@
 <br/>
 <h2 align="center">Github statistics 📊 </h2>
 
-<h4 align="center">Visitor's count 👀</h4>
+<h3 align="center">Visitor's count 👀</h3>
 
 <p align="center">
   <img
