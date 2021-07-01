@@ -11,7 +11,7 @@
 
 <img align="center" src="wallpaper.jpg" alt="">
 
- I am a 3nd-year student majoring in Data Science & Artificial Intelligence at Ha Noi University of Science and Technology.<br/>
+ I am a majoring in Data Science & Artificial Intelligence at Hanoi University of Science and Technology.<br/>
  I already have basic knowledge of Machine Learning algorithms, Deep Learning. I had some small projects during my university studies and some self-made personal projects.<br/>
  In addition, I also have a basic knowledge of web development with Javascript.<br/>
  I love drinking coffee and often go to cafes to study and relax...
